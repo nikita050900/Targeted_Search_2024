@@ -1,0 +1,79 @@
+/scratch/na00078/envs/QuickCW/bin/python
+WARNING:root:Too few points to create valid contours
+WARNING:root:Too few points to create valid contours
+WARNING:root:Too few points to create valid contours
+Warning: cannot find astropy, units support will not be available.
+67
+67
+0: B1855+09
+1: B1937+21
+2: B1953+29
+3: J0023+0923
+4: J0030+0451
+5: J0340+4130
+6: J0406+3039
+7: J0437-4715
+8: J0509+0856
+9: J0557+1551
+10: J0605+3757
+11: J0610-2100
+12: J0613-0200
+13: J0636+5128
+14: J0645+5158
+15: J0709+0458
+16: J0740+6620
+17: J0931-1902
+18: J1012+5307
+19: J1012-4235
+20: J1022+1001
+21: J1024-0719
+22: J1125+7819
+23: J1312+0051
+24: J1453+1902
+25: J1455-3330
+26: J1600-3053
+27: J1614-2230
+28: J1630+3734
+29: J1640+2224
+30: J1643-1224
+31: J1705-1903
+32: J1713+0747
+33: J1719-1438
+34: J1730-2304
+35: J1738+0333
+36: J1741+1351
+37: J1744-1134
+38: J1745+1017
+39: J1747-4036
+40: J1751-2857
+41: J1802-2124
+42: J1811-2405
+43: J1832-0836
+44: J1843-1113
+45: J1853+1303
+46: J1903+0327
+47: J1909-3744
+48: J1910+1256
+49: J1911+1347
+50: J1918-0642
+51: J1923+2515
+52: J1944+0907
+53: J1946+3417
+54: J2010-1323
+55: J2017+0603
+56: J2033+1734
+57: J2043+1711
+58: J2124-3358
+59: J2145-0750
+60: J2214+3000
+61: J2229+2643
+62: J2234+0611
+63: J2234+0944
+64: J2302+4442
+65: J2317+1439
+66: J2322+2057
+['T-ladder', 'acc_fraction', 'fisher_diag', 'log_likelihood', 'par_names', 'samples_cold']
+(100000000, 8)
+(1, 100000000)
+{'0_cos_gwtheta': nan, '0_cos_inc': nan, '0_gwphi': nan, '0_log10_fgw': nan, '0_log10_h': nan, '0_log10_mc': nan, '0_phase0': nan, '0_psi': nan, 'B1855+09_red_noise_gamma': 3.8866806405154866, 'B1855+09_red_noise_log10_A': -13.938023943317408, 'B1855+09_cw0_p_dist': 0.0, 'B1855+09_cw0_p_phase': nan, 'B1937+21_red_noise_gamma': 4.551004266758053, 'B1937+21_red_noise_log10_A': -13.69093024601203, 'B1937+21_cw0_p_dist': 0.0, 'B1937+21_cw0_p_phase': nan, 'B1953+29_red_noise_gamma': 2.793077624043318, 'B1953+29_red_noise_log10_A': -13.004421069091189, 'B1953+29_cw0_p_dist': 0.0, 'B1953+29_cw0_p_phase': nan, 'J0023+0923_red_noise_gamma': 0.4582094332106858, 'J0023+0923_red_noise_log10_A': -13.298758385319621, 'J0023+0923_cw0_p_dist': 0.0, 'J0023+0923_cw0_p_phase': nan, 'J0030+0451_red_noise_gamma': 4.009012812150594, 'J0030+0451_red_noise_log10_A': -14.202025126236615, 'J0030+0451_cw0_p_dist': 0.0, 'J0030+0451_cw0_p_phase': nan, 'J0340+4130_red_noise_gamma': 1.9786872033091054, 'J0340+4130_red_noise_log10_A': -16.25934340789635, 'J0340+4130_cw0_p_dist': 0.0, 'J0340+4130_cw0_p_phase': nan, 'J0406+3039_red_noise_gamma': 2.445692914119723, 'J0406+3039_red_noise_log10_A': -15.61397244718639, 'J0406+3039_cw0_p_dist': 0.0, 'J0406+3039_cw0_p_phase': nan, 'J0437-4715_red_noise_gamma': 6.5930418409652995, 'J0437-4715_red_noise_log10_A': -18.096063536770448, 'J0437-4715_cw0_p_dist': 0.0, 'J0437-4715_cw0_p_phase': nan, 'J0509+0856_red_noise_gamma': 6.503617701514766, 'J0509+0856_red_noise_log10_A': -16.610071349282727, 'J0509+0856_cw0_p_dist': 0.0, 'J0509+0856_cw0_p_phase': nan, 'J0557+1551_red_noise_gamma': 0.2591062238787053, 'J0557+1551_red_noise_log10_A': -14.210775001455843, 'J0557+1551_cw0_p_dist': 0.0, 'J0557+1551_cw0_p_phase': nan, 'J0605+3757_red_noise_gamma': 5.703894804549367, 'J0605+3757_red_noise_log10_A': -13.594288316447843, 'J0605+3757_cw0_p_dist': 0.0, 'J0605+3757_cw0_p_phase': nan, 'J0610-2100_red_noise_gamma': 3.716487154079033, 'J0610-2100_red_noise_log10_A': -12.691253144495533, 'J0610-2100_cw0_p_dist': 0.0, 'J0610-2100_cw0_p_phase': nan, 'J0613-0200_red_noise_gamma': 3.944740272547888, 'J0613-0200_red_noise_log10_A': -13.974337472824725, 'J0613-0200_cw0_p_dist': 0.0, 'J0613-0200_cw0_p_phase': nan, 'J0636+5128_red_noise_gamma': 2.3435411458673525, 'J0636+5128_red_noise_log10_A': -16.91935912142078, 'J0636+5128_cw0_p_dist': 0.0, 'J0636+5128_cw0_p_phase': nan, 'J0645+5158_red_noise_gamma': 0.6912237789361811, 'J0645+5158_red_noise_log10_A': -13.348167278583986, 'J0645+5158_cw0_p_dist': 0.0, 'J0645+5158_cw0_p_phase': nan, 'J0709+0458_red_noise_gamma': 3.5029407043208813, 'J0709+0458_red_noise_log10_A': -17.624143775320704, 'J0709+0458_cw0_p_dist': 0.0, 'J0709+0458_cw0_p_phase': nan, 'J0740+6620_red_noise_gamma': 1.4924201677013311, 'J0740+6620_red_noise_log10_A': -17.413306619463793, 'J0740+6620_cw0_p_dist': 0.0, 'J0740+6620_cw0_p_phase': nan, 'J0931-1902_red_noise_gamma': 5.602369096446976, 'J0931-1902_red_noise_log10_A': -15.929720315254674, 'J0931-1902_cw0_p_dist': 0.0, 'J0931-1902_cw0_p_phase': nan, 'J1012+5307_red_noise_gamma': 0.6309966693091575, 'J1012+5307_red_noise_log10_A': -12.522985647730808, 'J1012+5307_cw0_p_dist': 0.0, 'J1012+5307_cw0_p_phase': nan, 'J1012-4235_red_noise_gamma': 2.6130718818123504, 'J1012-4235_red_noise_log10_A': -12.800196982799909, 'J1012-4235_cw0_p_dist': 0.0, 'J1012-4235_cw0_p_phase': nan, 'J1022+1001_red_noise_gamma': 0.2983898679739191, 'J1022+1001_red_noise_log10_A': -12.150747092248933, 'J1022+1001_cw0_p_dist': 0.0, 'J1022+1001_cw0_p_phase': nan, 'J1024-0719_red_noise_gamma': 1.313174804647659, 'J1024-0719_red_noise_log10_A': -16.038697459503112, 'J1024-0719_cw0_p_dist': 0.0, 'J1024-0719_cw0_p_phase': nan, 'J1125+7819_red_noise_gamma': 3.61685969883854, 'J1125+7819_red_noise_log10_A': -16.40638014623718, 'J1125+7819_cw0_p_dist': 0.0, 'J1125+7819_cw0_p_phase': nan, 'J1312+0051_red_noise_gamma': 5.563110096965568, 'J1312+0051_red_noise_log10_A': -15.445935416945067, 'J1312+0051_cw0_p_dist': 0.0, 'J1312+0051_cw0_p_phase': nan, 'J1453+1902_red_noise_gamma': 1.599648629894359, 'J1453+1902_red_noise_log10_A': -13.835496093856674, 'J1453+1902_cw0_p_dist': 0.0, 'J1453+1902_cw0_p_phase': nan, 'J1455-3330_red_noise_gamma': 0.6002743573759041, 'J1455-3330_red_noise_log10_A': -17.23036781589139, 'J1455-3330_cw0_p_dist': 0.0, 'J1455-3330_cw0_p_phase': nan, 'J1600-3053_red_noise_gamma': 4.957518246113333, 'J1600-3053_red_noise_log10_A': -16.257430568637574, 'J1600-3053_cw0_p_dist': 0.0, 'J1600-3053_cw0_p_phase': nan, 'J1614-2230_red_noise_gamma': 6.792927793172769, 'J1614-2230_red_noise_log10_A': -16.68499759618632, 'J1614-2230_cw0_p_dist': 0.0, 'J1614-2230_cw0_p_phase': nan, 'J1630+3734_red_noise_gamma': 6.790092125992734, 'J1630+3734_red_noise_log10_A': -15.826234899944385, 'J1630+3734_cw0_p_dist': 0.0, 'J1630+3734_cw0_p_phase': nan, 'J1640+2224_red_noise_gamma': 0.9361965830916703, 'J1640+2224_red_noise_log10_A': -14.710962629645477, 'J1640+2224_cw0_p_dist': 0.0, 'J1640+2224_cw0_p_phase': nan, 'J1643-1224_red_noise_gamma': 1.0965529995262793, 'J1643-1224_red_noise_log10_A': -12.294098158593679, 'J1643-1224_cw0_p_dist': 0.0, 'J1643-1224_cw0_p_phase': nan, 'J1705-1903_red_noise_gamma': 0.4055774455638343, 'J1705-1903_red_noise_log10_A': -11.879848779558715, 'J1705-1903_cw0_p_dist': 0.0, 'J1705-1903_cw0_p_phase': nan, 'J1713+0747_red_noise_gamma': 3.081985030038712, 'J1713+0747_red_noise_log10_A': -16.066325048151608, 'J1713+0747_cw0_p_dist': 0.0, 'J1713+0747_cw0_p_phase': nan, 'J1719-1438_red_noise_gamma': 6.628859831524863, 'J1719-1438_red_noise_log10_A': -16.19252911903118, 'J1719-1438_cw0_p_dist': 0.0, 'J1719-1438_cw0_p_phase': nan, 'J1730-2304_red_noise_gamma': 5.615049413645516, 'J1730-2304_red_noise_log10_A': -14.981914038362886, 'J1730-2304_cw0_p_dist': 0.0, 'J1730-2304_cw0_p_phase': nan, 'J1738+0333_red_noise_gamma': 2.0126172236765716, 'J1738+0333_red_noise_log10_A': -13.544780709395424, 'J1738+0333_cw0_p_dist': 0.0, 'J1738+0333_cw0_p_phase': nan, 'J1741+1351_red_noise_gamma': 4.825619177076613, 'J1741+1351_red_noise_log10_A': -15.652396790148277, 'J1741+1351_cw0_p_dist': 0.0, 'J1741+1351_cw0_p_phase': nan, 'J1744-1134_red_noise_gamma': 4.363630251493152, 'J1744-1134_red_noise_log10_A': -14.430544574679868, 'J1744-1134_cw0_p_dist': 0.0, 'J1744-1134_cw0_p_phase': nan, 'J1745+1017_red_noise_gamma': 2.4625774319745424, 'J1745+1017_red_noise_log10_A': -11.742785263272056, 'J1745+1017_cw0_p_dist': 0.0, 'J1745+1017_cw0_p_phase': nan, 'J1747-4036_red_noise_gamma': 2.684312721354293, 'J1747-4036_red_noise_log10_A': -12.461330476589973, 'J1747-4036_cw0_p_dist': 0.0, 'J1747-4036_cw0_p_phase': nan, 'J1751-2857_red_noise_gamma': 3.6789955618129904, 'J1751-2857_red_noise_log10_A': -13.228460529561078, 'J1751-2857_cw0_p_dist': 0.0, 'J1751-2857_cw0_p_phase': nan, 'J1802-2124_red_noise_gamma': 0.4172676682258413, 'J1802-2124_red_noise_log10_A': -12.080768146158137, 'J1802-2124_cw0_p_dist': 0.0, 'J1802-2124_cw0_p_phase': nan, 'J1811-2405_red_noise_gamma': 1.6679555530990688, 'J1811-2405_red_noise_log10_A': -16.7742688195429, 'J1811-2405_cw0_p_dist': 0.0, 'J1811-2405_cw0_p_phase': nan, 'J1832-0836_red_noise_gamma': 1.89814742981676, 'J1832-0836_red_noise_log10_A': -17.21395336565346, 'J1832-0836_cw0_p_dist': 0.0, 'J1832-0836_cw0_p_phase': nan, 'J1843-1113_red_noise_gamma': 0.20514228773885862, 'J1843-1113_red_noise_log10_A': -14.741928338477088, 'J1843-1113_cw0_p_dist': 0.0, 'J1843-1113_cw0_p_phase': nan, 'J1853+1303_red_noise_gamma': 2.186811772401027, 'J1853+1303_red_noise_log10_A': -13.465171590411858, 'J1853+1303_cw0_p_dist': 0.0, 'J1853+1303_cw0_p_phase': nan, 'J1903+0327_red_noise_gamma': 1.8225960071824103, 'J1903+0327_red_noise_log10_A': -12.219946384657113, 'J1903+0327_cw0_p_dist': 0.0, 'J1903+0327_cw0_p_phase': nan, 'J1909-3744_red_noise_gamma': 3.3275893149106897, 'J1909-3744_red_noise_log10_A': -17.402908202358645, 'J1909-3744_cw0_p_dist': 0.0, 'J1909-3744_cw0_p_phase': nan, 'J1910+1256_red_noise_gamma': 1.2579665222284724, 'J1910+1256_red_noise_log10_A': -15.730268421786711, 'J1910+1256_cw0_p_dist': 0.0, 'J1910+1256_cw0_p_phase': nan, 'J1911+1347_red_noise_gamma': 3.8660232224399653, 'J1911+1347_red_noise_log10_A': -16.70876920736361, 'J1911+1347_cw0_p_dist': 0.0, 'J1911+1347_cw0_p_phase': nan, 'J1918-0642_red_noise_gamma': 0.8048926452845986, 'J1918-0642_red_noise_log10_A': -15.533531190730118, 'J1918-0642_cw0_p_dist': 0.0, 'J1918-0642_cw0_p_phase': nan, 'J1923+2515_red_noise_gamma': 2.349972035868289, 'J1923+2515_red_noise_log10_A': -16.869445729553554, 'J1923+2515_cw0_p_dist': 0.0, 'J1923+2515_cw0_p_phase': nan, 'J1944+0907_red_noise_gamma': 1.8561650382412558, 'J1944+0907_red_noise_log10_A': -13.27901454906211, 'J1944+0907_cw0_p_dist': 0.0, 'J1944+0907_cw0_p_phase': nan, 'J1946+3417_red_noise_gamma': 1.2471603841759475, 'J1946+3417_red_noise_log10_A': -12.54300664903146, 'J1946+3417_cw0_p_dist': 0.0, 'J1946+3417_cw0_p_phase': nan, 'J2010-1323_red_noise_gamma': 2.0047699130032304, 'J2010-1323_red_noise_log10_A': -16.121940277375323, 'J2010-1323_cw0_p_dist': 0.0, 'J2010-1323_cw0_p_phase': nan, 'J2017+0603_red_noise_gamma': 3.0736662544629683, 'J2017+0603_red_noise_log10_A': -15.652118248328366, 'J2017+0603_cw0_p_dist': 0.0, 'J2017+0603_cw0_p_phase': nan, 'J2033+1734_red_noise_gamma': 6.5684233854351115, 'J2033+1734_red_noise_log10_A': -16.14468257563011, 'J2033+1734_cw0_p_dist': 0.0, 'J2033+1734_cw0_p_phase': nan, 'J2043+1711_red_noise_gamma': 3.488308849036269, 'J2043+1711_red_noise_log10_A': -17.79813163032176, 'J2043+1711_cw0_p_dist': 0.0, 'J2043+1711_cw0_p_phase': nan, 'J2124-3358_red_noise_gamma': 4.876700799303719, 'J2124-3358_red_noise_log10_A': -13.950199507233375, 'J2124-3358_cw0_p_dist': 0.0, 'J2124-3358_cw0_p_phase': nan, 'J2145-0750_red_noise_gamma': 1.2367246970925108, 'J2145-0750_red_noise_log10_A': -12.930166995114318, 'J2145-0750_cw0_p_dist': 0.0, 'J2145-0750_cw0_p_phase': nan, 'J2214+3000_red_noise_gamma': 1.4245787557586136, 'J2214+3000_red_noise_log10_A': -17.123840040975942, 'J2214+3000_cw0_p_dist': 0.0, 'J2214+3000_cw0_p_phase': nan, 'J2229+2643_red_noise_gamma': 4.0681871523209, 'J2229+2643_red_noise_log10_A': -19.32046348225789, 'J2229+2643_cw0_p_dist': 0.0, 'J2229+2643_cw0_p_phase': nan, 'J2234+0611_red_noise_gamma': 2.302140919768435, 'J2234+0611_red_noise_log10_A': -13.702570930448056, 'J2234+0611_cw0_p_dist': 0.0, 'J2234+0611_cw0_p_phase': nan, 'J2234+0944_red_noise_gamma': 2.2908177397760134, 'J2234+0944_red_noise_log10_A': -18.222966652355407, 'J2234+0944_cw0_p_dist': 0.0, 'J2234+0944_cw0_p_phase': nan, 'J2302+4442_red_noise_gamma': 0.6864809436960468, 'J2302+4442_red_noise_log10_A': -13.161038175925698, 'J2302+4442_cw0_p_dist': 0.0, 'J2302+4442_cw0_p_phase': nan, 'J2317+1439_red_noise_gamma': 3.099555446232068, 'J2317+1439_red_noise_log10_A': -19.447753333785272, 'J2317+1439_cw0_p_dist': 0.0, 'J2317+1439_cw0_p_phase': nan, 'J2322+2057_red_noise_gamma': 1.6700333223323403, 'J2322+2057_red_noise_log10_A': -17.30323104416495, 'J2322+2057_cw0_p_dist': 0.0, 'J2322+2057_cw0_p_phase': nan, 'gwb_gamma': nan, 'gwb_log10_A': nan}
+Run complete.
